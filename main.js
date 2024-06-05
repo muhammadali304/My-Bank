@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 class Customer {
     constructor(firstName, lastName, gender, age, mobileNumber, bankAccount) {
         this.FirstName = firstName;

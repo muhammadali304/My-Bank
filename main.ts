@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 class Customer {
     public FirstName: string;
     public LastName: string;

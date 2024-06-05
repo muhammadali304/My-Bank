@@ -1,9 +1,10 @@
 {
   "name": "ma24-my-bank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a bank application (OOP)",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
